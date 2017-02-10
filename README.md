@@ -1,5 +1,5 @@
-# static-page-responsive
-Sample static responsive page, using HTML, CSS, JAVASCRIPT
+# Responsive Webpage
+Responsive Webage - using HTML, CSS, JAVASCRIPT
 
 #Smooth Scroll
 #Responsive navbar
